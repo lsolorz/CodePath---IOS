@@ -38,7 +38,7 @@ I had a couple of challenges mostly with setting up XCode and understanding Swif
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Luis Solorzano
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
